@@ -4,3 +4,5 @@ Debug/*
 .settings/*
 .cproject
 build/*
+.vs/*
+CMakeSettings.json
