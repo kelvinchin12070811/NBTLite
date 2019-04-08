@@ -1,10 +1,10 @@
 #include <iostream>
 #include <tuple>
 #include <typeinfo>
-#include "nbtlite/CompoundTag.hpp"
-#include "nbtlite/ArrayTag.hpp"
-#include "nbtlite/CommonTag.hpp"
-#include "nbtlite/JSONSerializer.hpp"
+#include <nbtlite/CompoundTag.hpp>
+#include <nbtlite/ArrayTag.hpp>
+#include <nbtlite/CommonTag.hpp>
+#include <nbtlite/JSONSerializer.hpp>
 #include <rapidjson/prettywriter.h>
 #include <rapidjson/stringbuffer.h>
 
