@@ -32,5 +32,6 @@ int main()
 	doc.Accept(writer);
 
 	cout << buffer.GetString() << endl;
+
 	return 0;
 }
